@@ -40,7 +40,7 @@ A Python script that allows you to leave Discord servers where the bot is not th
 
 1. Run the script:
    ```bash
-   python leaver.py
+   python Leaver.py
    ```
 
 2. Follow the on-screen instructions:
