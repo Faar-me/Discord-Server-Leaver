@@ -32,14 +32,15 @@ A Python script that allows you to leave Discord servers where the bot is not th
 
 3. Install the required dependencies:
    ```bash
-   pip install discord.py colorama
+   pip install -r requirements.txt
+
    ```
 
 ## Usage
 
 1. Run the script:
    ```bash
-   python server_leaver.py
+   python leaver.py
    ```
 
 2. Follow the on-screen instructions:
