@@ -1,20 +1,7 @@
-Sure! Here's an extensive `README.md` that includes all the necessary details and guides:
-
 ```markdown
 # Discord-Server-Leaver
 
 A Python script that allows you to leave Discord servers where the bot is not the owner or leave a specific server by ID.
-
-```
-  _____                                  _                                 
- / ____|                                | |                                
-| (___    ___  _ __ __   __  ___  _ __  | |  ___   __ _ __   __  ___  _ __ 
- \___ \  / _ \| '__|\ \ / / / _ \| '__| | | / _ \ / _` |\ \ / / / _ \| '__|
- ____) ||  __/| |    \ V / |  __/| |    | ||  __/| (_| | \ V / |  __/| |   
-|_____/  \___||_|     \_/   \___||_|    |_| \___| \__,_|  \_/   \___||_|   
-                                                                           
-                                                                           made by faar
-
 
 ## Features
 
@@ -77,7 +64,7 @@ When you run the script, it will look something like this:
                                                                            
                                                                            made by faar
 
-[INFO] Logged in as: YourBotName#1234
+[INFO] Logged in as: YourName#1234
 
 FAAR Server Leaver
 ===================
@@ -88,22 +75,11 @@ FAAR Server Leaver
 Enter your choice (1, 2, or 3):
 ```
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any features, bug fixes, or enhancements.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Disclaimer
+## Credits
 
-This script is intended for educational purposes only. The use of self-bots and unauthorized scripts on Discord is against Discord's Terms of Service. Use this script at your own risk.
-
-## Contact
-
-If you have any questions, feel free to open an issue or contact the repository owner.
-
-```
-
-Feel free to customize the repository URL in the `git clone` command and adjust the contact section as needed.
+Made by FAAR
