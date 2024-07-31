@@ -1,4 +1,4 @@
-```markdown
+
 # Discord-Server-Leaver
 
 A Python script that allows you to leave Discord servers where the bot is not the owner or leave a specific server by ID.
@@ -24,7 +24,7 @@ A Python script that allows you to leave Discord servers where the bot is not th
    ```bash
    git clone https://github.com/yourusername/Discord-Server-Leaver.git
    cd Discord-Server-Leaver
-   ```
+   
 
 2. Install the required dependencies:
    ```bash
