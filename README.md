@@ -22,8 +22,8 @@ A Python script that allows you to leave Discord servers where the bot is not th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Faar-me/Discord-Server-Leaver.git
-   ```
+   git clone https://github.com/potatobyme/Discord-Server-Leaver.git
+    ```
 2. Go To The Directory
    ```bash
    cd Discord-Server-Leaver
