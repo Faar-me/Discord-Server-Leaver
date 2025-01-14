@@ -67,7 +67,7 @@ When you run the script, it will look something like this:
  ____) ||  __/| |    \ V / |  __/| |    | ||  __/| (_| | \ V / |  __/| |   
 |_____/  \___||_|     \_/   \___||_|    |_| \___| \__,_|  \_/   \___||_|   
                                                                            
-                                                                           made by faar
+                                                                           made by Potato
 
 [INFO] Logged in as: YourName#1234
 
